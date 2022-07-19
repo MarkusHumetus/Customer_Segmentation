@@ -1,0 +1,31 @@
+-- Answer to question 1
+select `Region`, 
+	count(*) as `# of doctors`,
+   	AVG(`Purchases`) as `Purchase's Average` 
+from doctors as d 
+GROUP BY `Region`  
+ORDER BY `# of doctors`  DESC;
+
+-- Answer to question 2
+select c.DoctorID, 
+	sum(c.Qty) as `# of complaints`,
+    d.purchases
+from complaints as c 
+INNER join doctors as d
+on c.DoctorID = d.DoctorID 
+GROUP BY c.DoctorID  
+ORDER BY `# of complaints`  DESC
+
+
+2a opcio amb complaints correct!!
+
+with correct_complaints as (select * 
+                            from complaints
+                            WHERE `Complaint Type`="Correct")
+select d.DoctorID, 
+	d.Purchases,
+    correct_complaints.Qty as `# of complaints`
+from doctors as d 
+left join correct_complaints
+on correct_complaints.doctorid = d.DoctorID
+order by d.Purchases DESC;

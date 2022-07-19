@@ -1,5 +1,5 @@
 # Customer_Segmentation
-This project was proposed as a competition in the Datacamp learning platform in July 2022 and it was titled: _Can you find a better way to segment your customers?_ My personal aim is to get a proposal by using practicing different tools with the initial data. The main tools to work with are **SQL**, **Power BI** and **Python**.
+This project was proposed as a competition in the **Datacamp** learning platform in July 2022 and it was titled: _Can you find a better way to segment your customers?_ My personal aim is to get a proposal by using practicing different tools with the initial data. The main tools to work with are **SQL**, **Power BI** and **Python**.
 
 
 ### Background
@@ -41,5 +41,32 @@ The company stores the information you need in the following four tables. Some o
 "DoctorID" - doctor id (matches the other tables).
 "Instructions" - 'Yes' when the doctor includes special instructions, 'No' when they do not.
 
+**Competition challenge**
+Create a report that covers the following:
 
-https://github.com/MarkusHumetus/Customer_Segmentation.git
+1. How many doctors are there in each region? What is the average number of purchases per region?
+2. Can you find a relationship between purchases and complaints?
+3. Define new doctor segments that help the company improve marketing efforts and customer service.
+4. Identify which features impact the new segmentation strategy the most.
+5. Your team will need to explain the new segments to the rest of the company. Describe which characteristics distinguish the newly defined segments.
+
+### Judging Criteria
+
+**Category** / Weighting (%) / Details
+
+**Recommendations**	35%
+* Clarity of recommendations - how clear and well presented the recommendation is.
+* Quality of recommendations - are appropriate analytical techniques used & are the conclusions valid?
+* Number of relevant insights found for the target audience.
+
+**Storytelling**	35%	
+* How well the data and insights are connected to the recommendation.
+* How the narrative and whole report connects together.
+Balancing making the report in-depth enough but also concise.
+
+**Visualizations**	20%	
+* Appropriateness of visualization used.
+* Clarity of insight from visualization.
+
+**Votes**	10%	
+Up voting - most upvoted entries get the most points.
