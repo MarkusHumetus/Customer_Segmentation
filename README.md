@@ -1,6 +1,6 @@
 # Customer_Segmentation
 This project was proposed as a competition in the **Datacamp** learning platform in July 2022 and it was titled: _Can you find a better way to segment your customers?_ My personal aim is to get a proposal by using practicing different tools with the initial data. The main tools to work with are **SQL**, **Power BI** and **Python**.
-
+    
 
 ### Background
 You work for a medical device manufacturer in Switzerland. Your company manufactures orthopedic devices and sells them worldwide. The company sells directly to individual doctors who use them on rehabilitation and physical therapy patients.
