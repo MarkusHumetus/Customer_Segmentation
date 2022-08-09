@@ -1,11 +1,11 @@
-,Rank,Incidence rate_avg,R rate_avg,Experience_avg,Purchases_avg,Rank_number,Number Doctors
-0,Ambassador,5.799,1.071,0.578,20.278,9.0,115
-8,Titanium Plus,2.5,1.64,4.07,14.0,8.0,1
-7,Titanium,5.586,1.111,0.473,11.522,7.0,69
-4,Platinum Plus,5.734,1.288,0.481,8.463,6.0,54
-3,Platinum,4.424,1.193,0.525,6.351,5.0,77
-2,Gold Plus,4.052,1.261,0.427,5.76,4.0,50
-1,Gold,4.136,0.92,0.437,4.727,3.0,22
-6,Silver Plus,4.023,0.557,0.634,4.659,2.0,44
-5,Silver,7.0,1.733,0.5,7.0,1.0,3
-9,unknown,5.0,2.07,1.715,5.5,0.0,2
+,Rank,Incidence rate,R rate,Satisfaction,Experience,Purchases,Rank_number,Number Doctors
+0,Ambassador,5.799,1.071,27.915,0.578,20.278,9.0,115
+1,Gold,4.136,0.92,4.735,0.437,4.727,3.0,22
+2,Gold Plus,4.052,1.261,7.754,0.427,5.76,4.0,50
+3,Platinum,4.424,1.193,14.954,0.525,6.351,5.0,77
+4,Platinum Plus,5.734,1.288,17.849,0.481,8.463,6.0,54
+5,Silver,7.0,1.733,-25.0,0.5,7.0,1.0,3
+6,Silver Plus,4.023,0.557,4.301,0.634,4.659,2.0,44
+7,Titanium,5.586,1.111,18.691,0.473,11.522,7.0,69
+8,Titanium Plus,2.5,1.64,0.0,4.07,14.0,8.0,1
+9,unknown,5.0,2.07,41.665,1.715,5.5,0.0,2
